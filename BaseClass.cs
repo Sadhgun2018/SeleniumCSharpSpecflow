@@ -1,8 +1,8 @@
 using System;
 
-Public Class BaseClass
+public Class BaseClass
 {
-  Public Static Void Main(string[] args)
+  public Static Void Main(string[] args)
   {
     
   }
